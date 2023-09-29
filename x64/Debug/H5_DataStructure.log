@@ -1,0 +1,8 @@
+﻿  main.c
+  singleLinkedList.c
+C:\Users\mat\source\repos\H5_DataStructure\H5_DataStructure\singleLinkedList.c(55,29): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\mat\source\repos\H5_DataStructure\H5_DataStructure\singleLinkedList.c(55,29): message : this argument is used as a buffer size
+C:\Users\mat\source\repos\H5_DataStructure\H5_DataStructure\singleLinkedList.c(95,29): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\mat\source\repos\H5_DataStructure\H5_DataStructure\singleLinkedList.c(95,29): message : this argument is used as a buffer size
+  Generating Code...
+  H5_DataStructure.vcxproj -> C:\Users\mat\source\repos\H5_DataStructure\x64\Debug\H5_DataStructure.exe
